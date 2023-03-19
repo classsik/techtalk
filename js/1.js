@@ -1,0 +1,6 @@
+// Logic
+const getApi = () => {
+  //...
+};
+
+getApi();
